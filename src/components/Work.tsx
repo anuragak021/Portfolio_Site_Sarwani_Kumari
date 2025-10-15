@@ -143,12 +143,7 @@ export default function Work() {
           ))}
         </div>
 
-        <div className="mt-16 text-center">
-          <p className="text-[#6b6b6b] text-lg italic">
-            Each project represents a unique challenge and an opportunity to make words work harder.
-          </p>
-        </div>
-      </div>
+       </div>
     </section>
   );
 }
