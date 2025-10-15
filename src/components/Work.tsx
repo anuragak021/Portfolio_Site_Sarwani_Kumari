@@ -27,7 +27,7 @@ const projects: Project[] = [
     description:
       'For the creative council at Grey, one simple yet powerful insight emerged - one that spoke directly to solo drivers.',
     category: 'Concept Development',
-    videoUrl: 'public/image1.png'
+    videoUrl: '/image1.png'
   },
   {
     id: '3',
@@ -54,7 +54,7 @@ const projects: Project[] = [
     description:
       'The brief was simple: “ENO’s onboarding Vicky Kaushal. Make it go viral.” The idea? Simple, effective, and totally organic. Minimal publicity needed. 90% of the buzz happened on its own, making Vicky the talk of the town.',
     category: 'Product Marketing',
-    videoUrl: 'public/vid1.mp4'
+    videoUrl: '/vid1.mp4'
   },
   {
     id: '6',
@@ -71,7 +71,7 @@ const projects: Project[] = [
     description:
       "It all began with a manifesto. Simple, authentic, and easy to grasp! Just 16 lines capturing the idea for Sensodyne’s World Oral Health Day… and they made it to the front page of The Times of India (exactly as written, no edits, no feedback).",
     category: 'Print',
-    videoUrl: 'public/img3.jpg'
+    videoUrl: '/img3.jpg'
   },
   {
     id: '8',
